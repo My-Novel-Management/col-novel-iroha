@@ -1,12 +1,27 @@
-# novel-project-template
+# 「小説のいろは」
 
-A template for develop novels
+## Abstract
 
-## after must do
+小説の基本的な書き方について書いたものです
 
-_Need to add git submodule (storybuilder)_
+## Data
 
-_Need to overwrite this readme_
+- Title: 小説のいろは
+- Copy: 小説について、考えてみた
+- Theme: 小説の書き方
+- Genre: HowTo
+- Target: 10-50years (man, woman)/小説を書こうとしている初心者
+- Size: 100K
+
+## Concept
+
+_「小説のごくごく基礎について丁寧に書いてみます」_
+
+小説の書き方というよりも、物語の書き方、作り方について、多く解説がされています。
+しかし本当に必要なのは、良い物語の書き方とか作り方ではなくて、ごくごく基本的なことなのです。
+基礎がないと行き詰まったりして、結局は何も書けません。
+小説の大半は技術ですが、一番大事なことは「心構え」です。
+そういった基礎的なことを、わかりやすく、読みやすく、構成して提示しようというのが、本作です。
 
 ---
 (C)2019 N.T.Works
